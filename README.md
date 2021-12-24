@@ -11,6 +11,7 @@ Open your browser and go to localhost <br>
 Then go to phpMyAdmin section to connect database <br>
 Create a new database to "db_ecommerce" name; <br>
 Now import database to "db_ecommerce" database <br>
+![Screenshot 2021-12-25 002311](https://user-images.githubusercontent.com/80534239/147368645-f885ee32-6372-4ecc-a3e8-c873582de0ac.png)
 
 If you want to visite this ecommarce website then go to url:"http://localhost/ecommerce/index.php" <br>
 user Uname: nike <br>
